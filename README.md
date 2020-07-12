@@ -1,6 +1,6 @@
 # react-firebase-starter
 
-A example to deploy a react webapp on firebase hosting.
+An example to deploy a react webapp on firebase hosting.
 
 ## Step by step
 
